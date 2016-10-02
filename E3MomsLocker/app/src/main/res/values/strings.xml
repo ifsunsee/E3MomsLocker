@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">E3MomsLocker</string>
+
+    <string name="title_activity_locker_main_screen">E3MomsLocker</string>
+    <string name="use_locker_screen">use_locker_screen</string>
+    <string name="locker_key_pattern">locker_key_pattern</string>
+    <string name="use_locker_screen_q">Do you want using screen locker?</string>
+    <string name="control_key_number">control_key_number</string>
+    <string name="message_for_unlock">message_for_nulock</string>
+</resources>
